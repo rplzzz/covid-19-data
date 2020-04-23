@@ -32,9 +32,9 @@ cov19county
 \description{
 Data on COVID-19 cases and deaths by US state and county, going back to 
 2020-01-21.  Full documentation of the dataset is available at
-https://github.com/nytimes/covid-19-data/blob/master/README.md
+\url{https://github.com/nytimes/covid-19-data/blob/master/README.md}
 
-See https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions
+See \url{https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions}
 for an explanation of geographic exceptions in this dataset.
 }
 \keyword{datasets}

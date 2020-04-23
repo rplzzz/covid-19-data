@@ -3,7 +3,7 @@
 #' 
 #' Data on COVID-19 cases and deaths by US state and county, going back to 
 #' 2020-01-21.  Full documentation of the dataset is available at
-#' https://github.com/nytimes/covid-19-data/blob/master/README.md
+#' \url{https://github.com/nytimes/covid-19-data/blob/master/README.md}
 #' 
 #' @name cov19datasets
 NULL
@@ -22,7 +22,7 @@ NULL
 
 #' COVID-19 data by US county
 #' 
-#' See https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions
+#' See \url{https://github.com/nytimes/covid-19-data/blob/master/README.md#geographic-exceptions}
 #' for an explanation of geographic exceptions in this dataset.
 #' 
 #' @format \code{cov19county}:  Data frame with 6 columns
