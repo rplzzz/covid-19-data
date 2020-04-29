@@ -1,6 +1,6 @@
 Package: NYTimesCOVID19
 Title: Data on US COVID-19 cases by state and county
-Version: 1.4.0
+Version: 1.4.1
 Authors@R:
     person(given = "First",
            family = "Last",
